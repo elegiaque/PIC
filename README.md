@@ -1,0 +1,4 @@
+
+AlienatedGeist - Position Independent TCP Relay via WebSockets (intended use with SOCKS5 proxy)
+CommodifiedEssence - Managed .NET Execution within an Unmanaged Process (InlineExecuteAssembly-esque)
+DialecticAufheben - Phantom DLL Hollowing Stager via Zoom's dvf.dll (based off ForestOrr's POC)
